@@ -4,7 +4,7 @@ This repository contains my solutions for the mandatory Python exercises in Modu
 
 ## Completed exercises
 
-- **Exercise 1:** File to List Converter
+- **Exercise 2:** Task List Manager
 - **Exercise 3:** Simple Class and Inheritance
 - **Exercise 4:** Math Quiz with Exception Handling
 
